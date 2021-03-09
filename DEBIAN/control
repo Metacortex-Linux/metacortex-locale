@@ -1,0 +1,10 @@
+Package: metacortex-locale
+Version: 1.5.7
+Architecture: all
+Maintainer: Maksym Titenko <titenko.m@gmail.com>
+Installed-Size: 347
+Depends: python3, python3-gi, gir1.2-accountsservice-1.0, gir1.2-gdkpixbuf-2.0, gir1.2-glib-2.0, gir1.2-gtk-3.0, gir1.2-xapp-1.0, im-config (>= 0.23-1), iso-flag-png
+Section: admin
+Priority: optional
+Description: Language selection tool
+ Locale selection.

@@ -1,0 +1,3 @@
+#!/bin/bash
+
+/usr/lib/metacortex/metacortex-locale/metacortex-locale.py $@
